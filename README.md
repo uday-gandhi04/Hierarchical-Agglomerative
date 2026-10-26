@@ -24,8 +24,8 @@ Upload a CSV file, preprocess the data (missing values, encoding, scaling), and 
 ### 1. Clone the Repo
 
 ```bash
-git clone [https://github.com/uday-gandhi/smart-clustering.git](https://github.com/uday-gandhi04/Hierarchical-Agglomerative)
-cd smart-clustering
+git clone https://github.com/uday-gandhi04/Hierarchical-Agglomerative
+cd Hierarchical-Agglomerative
 ```
 
 ### 2. Install Dependencies
